@@ -1,0 +1,9 @@
+Package: cc.igerman.donthidethepride
+Name: DontHideThePride
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Makes Watch app think the watch did not come from Russia - pride watchfaces are selectable. Unfortunately, they did not work for me, however it gave me an extra Nike face and some extra color options (Unity and Rainbow). Run ldrestart after installation
+Maintainer: iGerman
+Author: iGerman
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
